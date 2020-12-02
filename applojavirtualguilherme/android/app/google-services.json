@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540137166567",
+    "firebase_url": "https://bdlojavirtual-c9d2c.firebaseio.com",
+    "project_id": "bdlojavirtual-c9d2c",
+    "storage_bucket": "bdlojavirtual-c9d2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540137166567:android:9ab0d0bfa85d909b8f7442",
+        "android_client_info": {
+          "package_name": "br.com.applojavirtualguilherme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540137166567-ikmq57912mdpa6k3b84n2alvbavsc0ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUhwLZDscQ6ZKlYD52me8M6ZF2QX-YdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540137166567-ikmq57912mdpa6k3b84n2alvbavsc0ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
